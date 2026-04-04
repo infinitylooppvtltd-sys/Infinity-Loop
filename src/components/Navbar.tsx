@@ -21,7 +21,7 @@ export default function Navbar() {
               <Infinity size={28} />
             </div>
             <span className="text-2xl font-display font-bold tracking-tight text-slate-900">
-              Infinity<span className="text-blue-600">Loop</span>
+              Infinity<span className="text-blue-600">Loop</span> <span className="text-sm font-medium text-slate-400">Pvt Ltd</span>
             </span>
           </div>
 

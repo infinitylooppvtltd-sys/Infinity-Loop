@@ -26,7 +26,7 @@ export default function About() {
             
             <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-xl border border-slate-100 z-20 hidden md:block">
               <div className="flex items-center gap-4">
-                <div className="text-4xl font-display font-bold text-brand-600">12+</div>
+                <div className="text-4xl font-display font-bold text-brand-600">3+</div>
                 <div className="text-sm text-slate-600 font-medium leading-tight">
                   Years of <br /> Excellence
                 </div>
@@ -40,7 +40,7 @@ export default function About() {
               We bridge the gap between <br /> vision and reality.
             </h3>
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              Founded in 2014, Nexus Dynamics started with a simple mission: to make 
+              Founded in 2023, InfinityLoop Pvt Ltd started with a simple mission: to make 
               complex technology accessible and powerful for businesses of all sizes. 
               Today, we are a global team of engineers, designers, and strategists.
             </p>

@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-gradient-to-br from-violet-600 via-blue-600 to-cyan-500 rounded-lg flex items-center justify-center text-white">
                 <Infinity size={20} />
               </div>
-              <span className="text-lg font-display font-bold tracking-tight text-slate-900">InfinityLoop</span>
+              <span className="text-lg font-display font-bold tracking-tight text-slate-900">InfinityLoop Pvt Ltd</span>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed mb-8">
               Unlimited solutions for your digital growth. Elevate your business 
@@ -75,7 +75,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-400 text-xs">
-          <p>© {currentYear} InfinityLoop. Made in Sri Lanka.</p>
+          <p>© {currentYear} InfinityLoop Pvt Ltd. Made in Sri Lanka.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-slate-600 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-slate-600 transition-colors">Terms of Service</a>
